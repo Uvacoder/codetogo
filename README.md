@@ -11,8 +11,6 @@ Do you have a use case that is not covered in codetogo? Please open an issue (ev
 You can also create a Pull Request by following the steps in [contributing.md](https://github.com/jadjoubran/codetogo.io/blob/master/CONTRIBUTING.md) however we recommend opening an issue first.
 
 
-## Use case feedback
-Do you have feedback on a particular use case? Please open an issue
 
 
 ## Makers
