@@ -4,6 +4,7 @@ https://github.com/jadjoubran/codetogo.io
 
 https://github.com/jadjoubran
 
+--
 Code to go aims to help developers learning JavaScript & React find up to date, accurate and ready to use snippets of JavaScript & React code for common use cases.
 
 ## Contributing a new use case
